@@ -1,0 +1,3 @@
+[submodule "lib/WCL"]
+	path = lib/WCL
+	url = https://github.com/zymurnerd/WCL.git
