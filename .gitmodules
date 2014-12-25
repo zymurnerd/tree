@@ -1,3 +1,9 @@
 [submodule "lib/WCL"]
 	path = lib/WCL
 	url = https://github.com/zymurnerd/WCL.git
+[submodule "lib/WCL/iop"]
+	path = lib/WCL/iop
+	url = https://github.com/zymurnerd/WCL-iop.git
+[submodule "lib/WCL/hwm"]
+	path = lib/WCL/hwm
+	url = https://github.com/zymurnerd/WCL-hwm.git
